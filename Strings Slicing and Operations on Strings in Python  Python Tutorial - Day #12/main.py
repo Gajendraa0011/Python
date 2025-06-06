@@ -11,3 +11,7 @@ print(names[:])
 print(names[0:-3])
 print(names[0:len(names)-3])
 print(names[-5:-3])
+
+alphabets = "ABCDEFGHIJK"
+for i in alphabets:
+ print (i)
